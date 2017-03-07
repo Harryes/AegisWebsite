@@ -7,33 +7,36 @@
 		#page {
 			max-width: 940px;
 			min-width: 300px;
-			margin: 10px auto 10px auto;
+			margin: 5px 5px 5px 5px;
 			padding: 0px;
 			border: 1px solid #000;
 			background-color: #ffffff;
 			}
 		#footer {max-width: 940px;
 			min-width: 300px;
-			margin: 10px auto 10px auto;
+			margin: 5px;
 			padding: 0px;
 			border: 1px solid #000;
 			background-color: #ffffff;
 			} 
 		#logo {
 			width: 100px;
-			margin: 10px auto 25px auto;
+			margin: 5px;
 			}
 		#navigation {
+
+			top: -100px;
 			max-width: 930px;
 			min-width: 300px;
 			padding: 15px;
 			margin: 0px auto 0px auto;
 			border-top: 1px solid #000;
 			border-bottom: 1px solid #000;
+
 			
 			}
 		li {
-		
+			display: inline;
 			margin: 0px 3px;
 			text-align: middle;}
 		p {
